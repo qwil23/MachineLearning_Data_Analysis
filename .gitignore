@@ -1,3 +1,6 @@
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+
+# local datasets
+21-Days-21-Projects-Dataset/
